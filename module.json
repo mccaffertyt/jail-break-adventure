@@ -1,0 +1,29 @@
+{
+  "id": "fvtt-under-hilltop",
+  "title": "fvtt-under-hilltop",
+  "description": "fvtt-under-hilltop",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "mccaffertyt"
+    }
+  ],
+  "packs": [
+    {
+      "name": "adventure",
+      "label": "fvtt-under-hilltop-adventure",
+      "path": "/packs/adventure.db",
+      "entity": "Adventure",
+      "type": "Adventure",
+      "system": "dnd5e"
+    }
+  ],
+  "url": "https://github.com/mccaffertyt/fvtt-under-hilltop",
+  "manifest": "https://github.com/mccaffertyt/fvtt-under-hilltop/releases/latest/module.json",
+  "download": "https://github.com/mccaffertyt/fvtt-under-hilltop/releases/download/0.0.1/fvtt-under-hilltop.zip",
+  "manifestPlusVersion": "1.2.0"
+}
