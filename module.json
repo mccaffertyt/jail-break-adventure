@@ -15,7 +15,7 @@
   "packs": [
     {
       "name": "adventure",
-      "label": "under-hilltop",
+      "label": "under-hilltop-adventure",
       "path": "/packs/adventure.db",
       "entity": "Adventure",
       "type": "Adventure",
