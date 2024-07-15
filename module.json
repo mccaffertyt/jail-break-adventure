@@ -16,7 +16,7 @@
     {
       "name": "adventure",
       "label": "murder-in-riverbend",
-      "path": "/packs/murder-in-riverbend.db",
+      "path": "/packs/murder-in-riverbend-adventure.db",
       "entity": "Adventure",
       "type": "Adventure",
       "system": "dnd5e"
@@ -24,6 +24,6 @@
   ],
   "url": "https://github.com/mccaffertyt/murder-in-riverbend-adventure",
   "manifest": "https://github.com/mccaffertyt/murder-in-riverbend-adventure/releases/latest/module.json",
-  "download": "https://github.com/mccaffertyt/murder-in-riverbend-adventure/releases/download/1.0.0/murder-in-riverbend.zip",
+  "download": "https://github.com/mccaffertyt/murder-in-riverbend-adventure/releases/download/1.0.0/murder-in-riverbend-adventure.zip",
   "manifestPlusVersion": "1.2.0"
 }
