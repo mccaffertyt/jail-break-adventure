@@ -1,5 +1,5 @@
 {
-  "id": "murder-in-riverbend",
+  "id": "murder-in-riverbend-adventure",
   "title": "Murder in Riverbend Adventure",
   "description": "murder-in-riverbend-adventure",
   "version": "1.0.0",
@@ -15,7 +15,7 @@
   "packs": [
     {
       "name": "adventure",
-      "label": "murder-in-riverbend",
+      "label": "Murder in Riverbend",
       "path": "/packs/murder-in-riverbend-adventure.db",
       "entity": "Adventure",
       "type": "Adventure",
