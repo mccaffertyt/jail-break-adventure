@@ -1,7 +1,7 @@
 {
-  "id": "under-hilltop",
-  "title": "Under Hilltop Adventure",
-  "description": "under-hilltop-adventure",
+  "id": "murder-in-riverbend",
+  "title": "Murder in Riverbend Adventure",
+  "description": "murder-in-riverbend-adventure",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
@@ -15,15 +15,15 @@
   "packs": [
     {
       "name": "adventure",
-      "label": "under-hilltop",
-      "path": "/packs/under-hilltop.db",
+      "label": "murder-in-riverbend",
+      "path": "/packs/murder-in-riverbend.db",
       "entity": "Adventure",
       "type": "Adventure",
       "system": "dnd5e"
     }
   ],
-  "url": "https://github.com/mccaffertyt/under-hilltop-adventure",
-  "manifest": "https://github.com/mccaffertyt/under-hilltop-adventure/releases/latest/module.json",
-  "download": "https://github.com/mccaffertyt/under-hilltop-adventure/releases/download/1.0.0/under-hilltop.zip",
+  "url": "https://github.com/mccaffertyt/murder-in-riverbend-adventure",
+  "manifest": "https://github.com/mccaffertyt/murder-in-riverbend-adventure/releases/latest/module.json",
+  "download": "https://github.com/mccaffertyt/murder-in-riverbend-adventure/releases/download/1.0.0/murder-in-riverbend.zip",
   "manifestPlusVersion": "1.2.0"
 }
