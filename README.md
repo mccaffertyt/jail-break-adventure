@@ -1,13 +1,13 @@
-Under Hilltop - Adventure on the Island of Adventure
+Murder in Riverbend - Adventure on the Island of Adventure
 
-Under Hilltop is an adventure set in my sandbox module The Island Adventure.
+Murder in Riverbend is an adventure set in my sandbox module The Island Adventure.
 
 It is a DnD5e adventure with no levels set for the NPCs, so the DM can determine as they see fit what challenge they want to set the party.
 
-The outlaws have been raiding caravans along the road between Two Waters and The Keep.
+A murder has been committed in Riverbend south of The Keep.
 
-Cartwright the grocer is the latest victim of their raids and has organised a group of merchants to pay for the hire of adventurers 
-to bring them to justice and recover their goods.
+Cartwright the grocer knows the victim and has organised to pay for the hire of adventurers 
+to bring the murderer to justice.
 
 The island is a place for adventure based on my own D&D campaign centered around the D&D module series B - The search for adventure.
 
