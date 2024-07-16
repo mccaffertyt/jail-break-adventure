@@ -11,7 +11,8 @@ to bring the murderer to justice.
 
 The island is a place for adventure based on my own D&D campaign centered around the D&D module series B - The search for adventure.
 
-The adventure portraits, tokens, text and maps have been produced by Tom McCafferty using Paint Dot Net and Dungeondraft
+The adventure portraits, tokens, text and maps have been produced by Tom McCafferty using Paint Dot Net, Dungeondraft and Unreal Engine which
+allow commercial use of content created with them
 
 Some Foundry VTT DnD5e Game System art work and tokens is included. This artwork has been included in the packaging of the adventure to 
 indicate the monsters and items the DM should use. This art work is provided by Fantasy Art and the FA -  Fan-Content License seems to 
