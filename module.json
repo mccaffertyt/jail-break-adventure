@@ -1,7 +1,7 @@
 {
-  "id": "murder-in-riverbend-adventure",
-  "title": "Murder in Riverbend Adventure",
-  "description": "murder-in-riverbend-adventure",
+  "id": "jail-break-adventure",
+  "title": "Jail Break Adventure",
+  "description": "jail-break-adventure",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
@@ -15,15 +15,15 @@
   "packs": [
     {
       "name": "adventure",
-      "label": "Murder in Riverbend",
-      "path": "/packs/murder-in-riverbend-adventure.db",
+      "label": "Jail Break",
+      "path": "/packs/jail-break-adventure.db",
       "entity": "Adventure",
       "type": "Adventure",
       "system": "dnd5e"
     }
   ],
-  "url": "https://github.com/mccaffertyt/murder-in-riverbend-adventure",
-  "manifest": "https://raw.githubusercontent.com/mccaffertyt/murder-in-riverbend-adventure/main/module.json",
-  "download": "https://github.com/mccaffertyt/murder-in-riverbend-adventure/raw/main/murder-in-riverbend-adventure.zip",
+  "url": "https://github.com/mccaffertyt/jail-break-adventure",
+  "manifest": "https://raw.githubusercontent.com/mccaffertyt/jail-break-adventure/main/module.json",
+  "download": "https://github.com/mccaffertyt/jail-break-adventure/raw/main/jail-break-adventure.zip",
   "manifestPlusVersion": "1.2.0"
 }
